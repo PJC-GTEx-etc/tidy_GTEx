@@ -1,9 +1,7 @@
 README.html
 
-data/GTEx_Analysis_2016-01-15_v7_RSEMv1.2.22_transcript_expected_count.txt
-data/GTEx_Analysis_2016-01-15_v7_RSEMv1.2.22_transcript_tpm.txt
-data/*.gct
-
+raw_data/*
+raw_files/*
 
 
 # Created by https://www.gitignore.io/api/r,macos
@@ -77,6 +75,6 @@ vignettes/*.pdf
 
 ### R.Bookdown Stack ###
 # R package: bookdown caching files
-/*_files/
+# /*_files/
 
 # End of https://www.gitignore.io/api/r,macos
